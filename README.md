@@ -1,4 +1,4 @@
-# Hello World, PIC16F84A, pic-as compiler
+# Ports usage, PIC16F84A, pic-as compiler
 
 <img src="img/anime.png" width="20%" title="">
 
