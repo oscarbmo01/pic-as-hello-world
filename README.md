@@ -32,7 +32,7 @@ https://www.labcenter.com/
 
 ## Usage
 
-![Electric Scheme](/scheme/demo.svg "Electric Scheme")
+![Electric Scheme](/img/demo.svg "Electric Scheme")
 
 ## Licence
 
