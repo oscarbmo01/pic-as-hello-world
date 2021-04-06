@@ -11,7 +11,7 @@ Program to turn a led on and off, using the input and output pins of the port.
 
 ## Getting Started
 
-![Electric scheme](/demo.svg "Título alternativo")
+![Electric Scheme](/scheme/demo.svg "Electric Scheme")
 
 ### Prerequisites
 
