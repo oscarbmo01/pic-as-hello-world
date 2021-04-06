@@ -2,7 +2,7 @@
 
 ## About The Project
 
-![Microcontroller](/scheme/pic.png "Electric Scheme")
+![Microcontroller](/scheme/pic.png "Electric Scheme"){:height="50%" width="50%"}
 
 Program to turn a led on and off, using the input and output pins of the port.
 
