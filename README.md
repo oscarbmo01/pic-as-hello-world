@@ -37,8 +37,3 @@ https://www.labcenter.com/
 ## Licence
 
 Distributed under the MIT License. See LICENSE for more information.
-
-## Contact
-
-- Linkedin: - [Linkedin](https://www.linkedin.com/in/oscarbmo/)
-- email: <oscar01bmo@gmail.com>
