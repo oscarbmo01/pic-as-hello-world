@@ -2,6 +2,8 @@
 
 ## About The Project
 
+![Microcontroller](/scheme/pic.png "Electric Scheme")
+
 Program to turn a led on and off, using the input and output pins of the port.
 
 ### Built with
@@ -10,8 +12,6 @@ Program to turn a led on and off, using the input and output pins of the port.
 * PROTEUS
 
 ## Getting Started
-
-![Electric Scheme](/scheme/demo.svg "Electric Scheme")
 
 ### Prerequisites
 
@@ -29,6 +29,10 @@ https://www.labcenter.com/
     git clone https://github.com/oscarbmo01/pic-as-hello-world.git
 
 2. Use the main.s file to record the microcontroller PIC16F84A
+
+## Usage
+
+![Electric Scheme](/scheme/demo.svg "Electric Scheme")
 
 ## Licence
 
