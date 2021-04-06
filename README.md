@@ -1,18 +1,40 @@
 # Hello World, PIC16F84A, pic-as compiler
 
+## About The Project
+
 Program to turn a led on and off, using the input and output pins of the port.
 
-## Requirements
+### Built with
 
-Install electrical design software that supports PIC16f84A microcontroller simulation, for example Proteus Design Suite.
+* MPLAB
+* PROTEUS
 
-Install IDE MPLAB XC8 PIC AND USE PIC-AS AS COMPILER.
+## Getting Started
 
-## Installing
+![Electric scheme](/demo.svg "Título alternativo")
 
-git clone https://github.com/oscarbmo01/pic-as-hello-world.git
+### Prerequisites
 
-## Built with
+- Install electrical design software that supports PIC16f84A microcontroller simulation, for example Proteus Design Suite.  
+https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide
 
-* MPLAB: https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide
-* PROTEUS: https://www.labcenter.com/
+- Install IDE MPLAB XC8 PIC AND USE PIC-AS AS COMPILER.  
+https://www.labcenter.com/
+
+
+### Installing
+
+1. Clone the repo
+    ```sh
+    git clone https://github.com/oscarbmo01/pic-as-hello-world.git
+
+2. Use the main.s file to record the microcontroller PIC16F84A
+
+## Licence
+
+Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+
+- Linkedin: - [Linkedin](https://www.linkedin.com/in/oscarbmo/)
+- email: <oscar01bmo@gmail.com>
