@@ -1,8 +1,8 @@
 # Hello World, PIC16F84A, pic-as compiler
 
-## About The Project
+<img src="scheme/pic.png" width="35%" title="Imagen de Sinisa Maric en Pixabay">
 
-![Microcontroller](/scheme/pic.png "Electric Scheme")
+## About The Project
 
 Program to turn a led on and off, using the input and output pins of the port.
 
